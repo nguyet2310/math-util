@@ -25,7 +25,7 @@ public class MathUtilDDTTest {
             {2, 2},
             {3, 6},
             {4, 24},
-            {5, 120},
+            {5, 20},
         };
     }
     @Parameterized.Parameter(value = 0)
